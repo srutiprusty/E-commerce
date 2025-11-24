@@ -1,4 +1,4 @@
-# Ecomm — Local Development Guide
+# Ecomm 
 
 This repository contains a frontend (Client) and backend (server) for the Ecomm project.
 This README provides a quick, common setup for running both parts locally on Windows (cmd.exe). Adjust commands if you use PowerShell, WSL, or a different OS.
